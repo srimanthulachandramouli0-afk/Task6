@@ -23,26 +23,3 @@ Understand why password complexity matters.
 - Use Upper + Lower + Number + Symbol
 
 Tools: passwordmeter.com + Python (re, math)
-
-File: Checker.py
-import re
-
-def check(p):
-    s = 0
-    if len(p) >= 8: s+=1
-    if len(p) >= 12: s+=1
-    if re.search(r"[A-Z]", p): s+=1
-    if re.search(r"[a-z]", p): s+=1
-    if re.search(r"[0-9]", p): s+=1
-    if re.search(r"[^a-zA-Z0-9]", p): s+=1
-    
-    if s <= 2:
-        return "Very Weak"
-    elif s <= 4:
-        return "Medium"
-    else:
-        return "Very Strong - 100%"
-
-for pwd in ["password", "Password123", "T!g3r$Un#9qL*2vX@8"]:
-    print(pwd, "->", check(pwd))
-
