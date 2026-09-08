@@ -25,7 +25,7 @@ Understand why password complexity matters.
 Tools: passwordmeter.com + Python (re, math)
 import re
 
-def check(p):
+```def check(p):
     s = 0
     if len(p) >= 8: s+=1
     if len(p) >= 12: s+=1
@@ -40,7 +40,7 @@ def check(p):
 
 for pwd in ["password", "Password123", "T!g3r$Un#9qL*2vX@8"]:
     print(pwd, "->", check(pwd))
-
+```
     ##output
     password -> Very Weak
 Password123 -> Medium
