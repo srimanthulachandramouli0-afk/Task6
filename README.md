@@ -25,6 +25,6 @@ Understand why password complexity matters.
 Tools: passwordmeter.com + Python (re, math)
 
 ### Conclusion
-Simple passwords like name+number crack in seconds. 
-My final random password T!g3r$Un#9qL*2vX@8 takes trillions of years.
-So always use password manager.
+1.Simple passwords like name+number crack in seconds. 
+2.My final random password T!g3r$Un#9qL*2vX@8 takes trillions of years.
+##So always use password manager.
