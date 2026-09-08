@@ -41,38 +41,38 @@ Tools: passwordmeter.com + Python (re, math)
 - Simple passwords like name+number crack in seconds. 
 - My final random password T!g3r$Un#9qL*2vX@8 takes trillions of years.
 - So always use password manager.
-🔓 How Hackers Actually Crack Your Password in 4 Seconds – My Deep Dive | Task 6 | Elevate Labs
+###🔓 How Hackers Actually Crack Your Password in 4 Seconds – My Deep Dive | Task 6 | Elevate Labs
 
-I wanted to understand not just WHAT is a strong password, but HOW hackers break it. Here's what I learned:
+-I wanted to understand not just WHAT is a strong password, but HOW hackers break it. Here's what I learned:
 
 1. DICTIONARY ATTACK – The 4-Second Hack
-Hackers have a list of 10 Million common passwords (sukanya, password, 123456).
-Their software tries 1 Lakh passwords per second.
-So if your password is "sukanya", it's cracked in 4 SECONDS.
+- Hackers have a list of 10 Million common passwords (sukanya, password, 123456).
+- Their software tries 1 Lakh passwords per second.
+- So if your password is "sukanya", it's cracked in 4 SECONDS.
 
 2. BRUTE FORCE ATTACK – The 1-Month Hack
-Take "Sukanya124"
-Hackers know the pattern: Capital Letter + Name + Numbers.
-So they don't try all combinations, they only try: Sukanya + 000 to 999.
-That's just 1000 tries. Done in 1 month.
+- Take "Sukanya124"
+- Hackers know the pattern: Capital Letter + Name + Numbers.
+- So they don't try all combinations, they only try: Sukanya + 000 to 999.
+- That's just 1000 tries. Done in 1 month.
 
 3. SOCIAL ENGINEERING – The Most Dangerous One
-This is what shocked me!
-I tested "Sukanya@2003" – I thought it was strong because it has a symbol.
-But the tool flagged: "Contains a date – Easily guessed"
-Why? A hacker checks your Instagram/Facebook, finds your DOB is 2003, and guesses it in the FIRST TRY.
+- This is what shocked me!
+- I tested "Sukanya@2003" – I thought it was strong because it has a symbol.
+- But the tool flagged: "Contains a date – Easily guessed"
+- Why? A hacker checks your Instagram/Facebook, finds your DOB is 2003, and guesses it in the FIRST TRY.
 
 4. WHY RANDOM IS UNBREAKABLE?
-My random password: "T!g3r$Un#9qL*2vX@8" – 16 characters
+- My random password: "T!g3r$Un#9qL*2vX@8" – 16 characters
 - 26 Capital + 26 Small + 10 Numbers + 32 Symbols = 94 options per character
 - Total combinations = 94^16 = 37 Quintillion possibilities!
-Even a supercomputer needs 1 TRILLION years to crack it.
+- Even a supercomputer needs 1 TRILLION years to crack it.
 
 HACKER MINDSET:
-A hacker never attacks the hardest password. He attacks the easiest person.
-If you use an easy password, YOU become the target.
+- A hacker never attacks the hardest password. He attacks the easiest person.
+- If you use an easy password, YOU become the target.
 
 FINAL RULE I LEARNED:
-Don't create a password that YOU can remember.
-Create a password that even YOU cannot remember, and save it in a Password Manager.
+- Don't create a password that YOU can remember.
+- Create a password that even YOU cannot remember, and save it in a Password Manager.
 
