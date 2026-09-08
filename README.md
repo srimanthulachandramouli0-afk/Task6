@@ -23,9 +23,9 @@ Understand why password complexity matters.
 - Use Upper + Lower + Number + Symbol
 
 Tools: passwordmeter.com + Python (re, math)
-import re
+```import re
 
-```def check(p):
+def check(p):
     s = 0
     if len(p) >= 8: s+=1
     if len(p) >= 12: s+=1
