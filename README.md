@@ -42,7 +42,7 @@ Tools: passwordmeter.com + Python (re, math)
 - My final random password T!g3r$Un#9qL*2vX@8 takes trillions of years.
 - So always use password manager.
   
-###🔓 How Hackers Actually Crack Your Password in 4 Seconds – My Deep Dive | Task 6 | Elevate Labs
+-###🔓 How Hackers Actually Crack Your Password in 4 Seconds – My Deep Dive | Task 6 | Elevate Labs
 
 -I wanted to understand not just WHAT is a strong password, but HOW hackers break it. Here's what I learned:
 
